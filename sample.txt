@@ -11,3 +11,4 @@ Duration: (Length of time treatment/medication/equipment (item in question) is n
 Summary: In summary, (treatment/medication/equipment – item in question) is medically necessary for this patient’s medical condition.  Please contact me if any additional information is required to ensure the prompt approval of (treatment/medication/equipment – item in question).   
  
 Sincerely,  (Physicians name and signature) Your licensed provider must complete, sign and date the letter.
+
